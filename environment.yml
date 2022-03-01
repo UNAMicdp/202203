@@ -10,3 +10,4 @@ dependencies:
  - matplotlib
  - pandas
  - scikit-learn
+ - scikit-learn-extra
